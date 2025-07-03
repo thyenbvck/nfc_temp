@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b80dc29-0ac3-4cee-9e1d-b2bc90cf6e09/resourceGroups/HCMUT/providers/Microsoft.Web/sites/nfc",
+    "appService.deploySubpath": "."
+}
